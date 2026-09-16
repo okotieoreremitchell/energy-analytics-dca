@@ -8,8 +8,6 @@ An interactive Python & Streamlit application for automated Arps Decline Curve A
 * **Consolidated Field Aggregator (`FieldAggregatorEngine`):** Multi-well array alignment rolling up production, OPEX, royalties, and field CAPEX into portfolio-level economics.
 * **Discounted Cash Flow Model (`UpstreamDCFEngine`):** Unlevered IRR, NPV10, payout timelines, and tax/royalty structures.
 
-![DCA Production Forecast](reports/figures/dca_forecast.png)
-
 ## Quickstart & Installation
 ```bash
 # Clone repository
